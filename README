@@ -1,1 +1,6 @@
-This is a free software VST bitcrusher.
+This will ultimatelty a free software VST bitcrusher.
+
+For the moment, only DSP code is available, via a stand alone executable.
+
+This program requires the libsndfile library for audio file I/O.
+
