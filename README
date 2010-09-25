@@ -1,6 +1,13 @@
-This will ultimatelty a free software VST bitcrusher.
+This program is a free software VST bitcrusher/downsampler, licensed
+under the New BSD License terms.
 
-For the moment, only DSP code is available, via a stand alone executable.
+A binary is provided for quick testing, and the programs is meant to be
+built using Visual Studio, for the moment. Expect this to change in a
+near future. I will probably use a SCons based build, and leave Visual
+Studio for a free software compiler and IDE.
 
-This program requires the libsndfile library for audio file I/O.
+For the moment, no GUI is provided, and the rendering of the parameters
+is done by the host.
+
+This code has been tested using Reaper, a marvelous piece of software.
 
